@@ -1,11 +1,11 @@
-# 🧠 RAG-Powered Q&A Chatbot
+🧠 RAG-Powered Q&A Chatbot
 
 A lightweight **Retrieval-Augmented Generation (RAG)** system built with **Flask**, **LangChain**, and **ChromaDB**, supporting document uploads, semantic search, expert question handling, and text improvement features.  
 This project integrates **Anthropic Claude** and **DeepSeek** LLMs for intelligent Q&A and summarization tasks.
 
 ---
 
-## 🚀 Features
+🚀 Features
 
 - **RAG-based Q&A**: Retrieve contextually relevant answers from uploaded documents.
 - **Document Upload & Indexing**: Supports `.txt`, `.pdf`, `.csv`, `.docx`, and `.md`.
@@ -17,7 +17,7 @@ This project integrates **Anthropic Claude** and **DeepSeek** LLMs for intellige
 
 ---
 
-## 🧩 Tech Stack
+🧩 Tech Stack
 
 | Component | Technology |
 |------------|-------------|
@@ -28,7 +28,6 @@ This project integrates **Anthropic Claude** and **DeepSeek** LLMs for intellige
 | ORM/Database | SQLite |
 | Libraries | LangChain, Flask-CORS, HuggingFace Embeddings |
 
----
 
 ## ⚙️ Installation
 
